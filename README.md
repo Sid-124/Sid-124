@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sid-124
-- 👀 I’m interested in C Language,Python and Machine Learning
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in Python and Machine Learning
+- 🌱 I’m currently learning Python language
 - 💞️ I'm a CSE student with Artificial Intelligence and Machine Learning as a Specialization 
 
 <!---
